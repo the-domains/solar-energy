@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Osda is a professional manufacturer of solar panels from 3w~320w poly, mono,
   black mono and colorful poly.
-datePublished: '2016-07-15T05:07:45.624Z'
-dateModified: '2016-07-15T05:02:04.485Z'
+datePublished: '2016-07-15T05:09:54.111Z'
+dateModified: '2016-07-15T05:09:49.474Z'
 title: ''
 author: []
 sourcePath: >-
@@ -31,6 +31,8 @@ Osda can provide solar panel, solar home system, solar pump and technology suppo
 
 Osda has more than 10 years PV export experience, we're very fimilar with the PV operation.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7bd9353-bd5b-4f54-b97d-b00f6747a7a0.jpg)
+
+Price are very competitive and new auto machine can controll the quality.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b91158ca-3979-49ce-b7a4-72b2abcc4ecf.jpg)
 
 Contact us [here][0].
