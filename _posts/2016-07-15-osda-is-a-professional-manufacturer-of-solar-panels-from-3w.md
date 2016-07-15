@@ -7,15 +7,15 @@ keywords: []
 description: >-
   Osda is a professional manufacturer of solar panels from 3w~320w poly, mono,
   black mono and colorful poly.
-datePublished: '2016-07-15T05:01:29.215Z'
-dateModified: '2016-07-15T05:01:10.388Z'
+datePublished: '2016-07-15T05:07:45.624Z'
+dateModified: '2016-07-15T05:02:04.485Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-07-15-osda-is-a-professional-manufacturer-of-solar-panels-from-3w.md
 authors: []
 publisher: null
 starred: true
-sourcePath: >-
-  _posts/2016-07-15-osda-is-a-professional-manufacturer-of-solar-panels-from-3w.md
 url: osda-is-a-professional-manufacturer-of-solar-panels-from-3w~/index.html
 _type: Article
 
@@ -23,7 +23,7 @@ _type: Article
 Osda is a professional manufacturer of solar panels from 3w~320w poly, mono, black mono and colorful poly.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d0f2506-d790-4c8f-b64a-3dde86e1f5ae.jpg)
 
-Osda has 2 factories, one in Ningbo, another in Shangdong province.  
+Osda has 2 factories, one in Ningbo, another in Shangdong province.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abbcede3-22f8-4f80-b942-8117a37a3c60.jpg)
 
 Osda can provide solar panel, solar home system, solar pump and technology support.
