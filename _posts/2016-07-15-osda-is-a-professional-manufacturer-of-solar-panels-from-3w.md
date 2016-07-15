@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Osda is a professional manufacturer of solar panels from 3w~320w poly, mono,
   black mono and colorful poly.
-datePublished: '2016-07-15T05:10:13.293Z'
-dateModified: '2016-07-15T05:10:01.553Z'
+datePublished: '2016-07-15T05:12:42.032Z'
+dateModified: '2016-07-15T05:11:35.686Z'
 title: ''
 author: []
 sourcePath: >-
